@@ -956,7 +956,7 @@
                         @endforeach
                     </ul>
 
-                    <br><hr><br>
+                    <br><hr><br><br><hr><br>
                     <div class="mt-6">
                         <h2 class="text-xl font-bold mb-4">My Projects</h2>
                         <ul class="text-left space-y-2">
